@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/expense-tracker-and-analyzer-164218-164227/expense_manager_frontend/.dart_tool/flutter_build/5931ee175e7f298fe2c03cd58e787a71/native_assets.json: 
